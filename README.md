@@ -1,5 +1,7 @@
 # Smart Parking System
 
+![Smart Parking Banner](docs/banner.svg)
+
 A real-time computer vision project that detects parking slot occupancy using a camera feed or a static image. The system highlights each slot as free or occupied and presents a live dashboard with occupancy statistics.
 
 ## Overview
@@ -73,6 +75,14 @@ Click the parking area corners and press S to save the slot layout.
 ```bash
 python smart_parking/main.py
 ```
+
+## How It Works
+
+1. The system captures a live frame from the camera or reads a static image.
+2. Parking slots are defined by the user using the slot setup tool.
+3. Each slot region is analyzed using image processing techniques such as grayscale conversion, blur filtering, adaptive thresholding, edge detection, contour analysis, and background subtraction.
+4. A scoring model determines whether the slot is occupied or free.
+5. The result is drawn directly onto the frame and summarized in the side dashboard.
 
 ## Controls
 

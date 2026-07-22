@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <rect width="1600" height="500" fill="#020617"/>
+  <rect x="40" y="40" width="1520" height="420" rx="28" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
+  <circle cx="310" cy="250" r="130" fill="#38bdf8" opacity="0.2"/>
+  <circle cx="310" cy="250" r="95" fill="#38bdf8" opacity="0.4"/>
+  <circle cx="310" cy="250" r="60" fill="#38bdf8"/>
+  <rect x="430" y="170" width="240" height="150" rx="20" fill="#1e293b" stroke="#60a5fa" stroke-width="2"/>
+  <rect x="470" y="210" width="70" height="70" rx="12" fill="#22c55e"/>
+  <rect x="560" y="210" width="70" height="70" rx="12" fill="#ef4444"/>
+  <rect x="730" y="170" width="300" height="150" rx="20" fill="#111827" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="760" y="195" width="240" height="20" rx="10" fill="#f59e0b"/>
+  <rect x="760" y="225" width="180" height="20" rx="10" fill="#f59e0b"/>
+  <rect x="760" y="255" width="210" height="20" rx="10" fill="#f59e0b"/>
+  <text x="430" y="390" font-family="Segoe UI, Arial" font-size="44" font-weight="700" fill="#f8fafc">Smart Parking System</text>
+  <text x="430" y="435" font-family="Segoe UI, Arial" font-size="24" fill="#94a3b8">Computer Vision • Real-time Occupancy Detection</text>
+</svg>
