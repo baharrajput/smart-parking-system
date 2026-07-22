@@ -17,9 +17,9 @@ This project demonstrates how computer vision techniques can be applied to smart
 
 ## Project Preview
 
-### Interface Preview
+### Real Interface Screenshot
 
-![Smart Parking Interface Preview](docs/smart-parking-preview.svg)
+![Smart Parking System Screenshot](docs/real-screenshot.png)
 
 ### Project Structure
 
